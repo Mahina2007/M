@@ -1,0 +1,21 @@
+"""
+Kalkulator yaratish kerak, yani foydalanuvchidan
+2 ta son va amal so'raysiz va natijasini result.txt
+faylga ushbu ko'rinishda saqlab ketish kerak.
+Faylga saqlab ketuvchi, va hisob kitobni qiluvchi
+ikkita funksiya yozishing.
+
+Fayl tuzilishi, results.txt
+
+12,+,13,25
+21,-,10,11
+12,*,2,24
+
+Menu:
+    1. Add
+        num1, num2
+    2. Subtract
+    3. Multiply
+    4. Divide
+    5. Show all results
+"""12, + 13

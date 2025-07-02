@@ -1,0 +1,10 @@
+{
+    "name": "ali",
+    "age": 12,
+    "grade": 4.5,
+    "is_male": true,
+    "hobby": null,
+    "data": {
+        "a": 1
+    }
+}

@@ -1,0 +1,30 @@
+[
+    {
+        "id": 3,
+        "full_name": "muslima",
+        "email": "tojiyevamahina.2007@gmail.com",
+        "phone_num": "1234",
+        "course": "math"
+    },
+    {
+        "id": 4,
+        "full_name": "muslima",
+        "email": "tojiyevamahina.2007@gmail.com",
+        "phone_num": "1234",
+        "course": "english"
+    },
+    {
+        "id": 5,
+        "full_name": "Marina",
+        "email": "tojiyevamahina.2007@gmail.com",
+        "phone_num": "2345",
+        "course": "english"
+    },
+    {
+        "id": 6,
+        "full_name": "Mahina Tojiyeva",
+        "email": "tojiyevamahina.2007@gmail.com",
+        "phone_num": "7765443",
+        "course": "physics"
+    }
+]

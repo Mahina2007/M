@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Laura Thompson",
+        "phone_number": "555-1122",
+        "experience": "10 years",
+        "profession": "Mathematics Teacher"
+    },
+    {
+        "name": "James O'Neil",
+        "phone_number": "555-3344",
+        "experience": "8 years",
+        "profession": "Science Teacher"
+    },
+    {
+        "name": "Priya Desai",
+        "phone_number": "555-5566",
+        "experience": "5 years",
+        "profession": "English Teacher"
+    },
+    {
+        "name": "Carlos Rivera",
+        "phone_number": "555-7788",
+        "experience": "12 years",
+        "profession": "History Teacher"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "type": "book",
+        "name": "The peace and war",
+        "price": 12000,
+        "pages": 120
+    },
+    {
+        "type": "electronics",
+        "name": "Iphone 12 pro max",
+        "price": 12000000,
+        "made_in": "China",
+        "year": 2024
+    },
+    {
+        "type": "book",
+        "name": "The peace and war",
+        "price": 12000,
+        "color": 120
+    },
+    {
+        "type": "books",
+        "name": "Iffat va hayo",
+        "price": 100000,
+        "pages": 120
+    },
+    {
+        "type": "book",
+        "name": "Iffat va hayo",
+        "price": 100000,
+        "pages": 120
+    },
+    {
+        "type": "electronics",
+        "name": "headphone",
+        "made_in": "Korea",
+        "year": 2025,
+        "price": 200000
+    },
+    {
+        "type": "cloth",
+        "name": "ZARA",
+        "price": 1000000,
+        "color": "black"
+    },
+    {
+        "product_type": "cloth",
+        "name": "Wakiki",
+        "price": 1000000,
+        "color": "white"
+    }
+]
