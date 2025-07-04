@@ -50,7 +50,7 @@ Container Emulation
     __iter__(self): Returns an iterator object.
     __next__(self): Returns the next item from the iterator.
     __reversed__(self): Returns a reverse iterator.
-    __contains__(self, item): Checks if an item is in the container.
+    __contains__(self, item): Checks if an item is in*** the container.
 
 Numeric Operations
     __add__(self, other): Addition (+).

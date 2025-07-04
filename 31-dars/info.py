@@ -1,4 +1,6 @@
-
+# git -> software, kodlarni versiyalash
+# repository - project
+# git - programma, github - sayt
 """git config --global user.name "Your Name"           Sets your name for commit authorship
 git config --global user.email "your.email@example.com"  Sets your email for commit authorship
 
