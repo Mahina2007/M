@@ -1,7 +1,7 @@
 """
 Vazifa 1: Barcha xodimlar ro'yxatini ularning maoshiga ko'ra o'sish tartibida olish so'rovini yozing.
 select * from staff order by salary;
-Vazifa 2: Muayyan bo'limdagi (masalan, "Development") va ma'lum bir lavozimdag (masalan, "Senior Developer") xodimlarni topish so'rovini yozing.
+Vazifa 2: M uayyan bo'limdagi (masalan, "Development") va ma'lum bir lavozimdag (masalan, "Senior Developer") xodimlarni topish so'rovini yozing.
 select * from staff where department='Development' and position='Senior Developer';
 Vazifa 3: Har bir xodimning maoshini kompaniyadagi o'rtacha maosh bilan solishtirish so'rovini yozing.
 select full_name, salary, (select avg(salary) from staff) as average_cost from staff;
